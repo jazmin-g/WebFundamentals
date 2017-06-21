@@ -1,0 +1,36 @@
+.wrapper{
+	margin: 5px;
+}
+.head{
+	width: 151px;
+	height: 151px;
+	border: solid 2px black;
+	background-color:brown ;
+	border-radius: 69px;
+	position: absolute;
+	right: 300px;
+	bottom: 300px
+}
+
+.Leftear{
+	width: 100px;
+	height: 100px;
+	border: solid 2px black;
+	background-color: brown;
+	border-radius: 50px;
+	position: absolute;
+	right:444px;
+	bottom: 333px;
+
+}
+
+.Rightear{
+
+	width: 210px;
+	height: 100px;
+	border: solid 2px black;
+	background-color: brown;
+	border-radius: 50px;
+	left: 40px;
+	top: 0px
+}

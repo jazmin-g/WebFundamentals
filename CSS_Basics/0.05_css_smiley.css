@@ -67,16 +67,6 @@
 	top: 2px;
 	background-color: white
 }
-.rosecheek{
-	width :6px;
-	height : 6px;
-	border : solid 1px black;
-	border-radius : 3px;
-	z-index: 1 ;
-	position : relative;
-	left : 1em;
-	top : 1px;
-	background-color: pink;
-}
+
 
 
